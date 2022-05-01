@@ -1,7 +1,7 @@
 1 Define tus eventos en una pantalla
    iniciar
-   aumentar contador en 1
-   disminuir el contador -1
+   aumentar contador en x
+   disminuir el contador -x
 
 2 Define tus estados
    iniciar contador en 0
